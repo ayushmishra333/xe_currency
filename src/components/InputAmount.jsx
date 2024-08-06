@@ -14,7 +14,7 @@ const InputAmount = () => {
         fullWidth
         InputProps={{
           type: "number",
-          startAdornment: <InputAdornment position="start">$</InputAdornment>
+          startAdornment: <InputAdornment position="start"></InputAdornment>
         }}
       />
     </Grid>
